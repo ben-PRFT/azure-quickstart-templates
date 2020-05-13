@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "projectName":{
-      "value": "GEN-UNIQUE-8"
+      "value": "TestProject"
     },
     "adminUsername": {
       "value": "azureuser"
     },
     "adminPublicKey": {
-      "value": "GEN-SSH-PUB-KEY"
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDD0NoYCs3YVbhuV4u6cNt0+hcJMJTIX/Oz9yNNxa04hy/QQtJYqedSg9VT79l3TkyyfZlbv/zMnKh1v/75KzBtCA7GCnOmBR60uE04zwxGBYomczim9j2Du5HZY0zJwVulcIYzVUQqn4OXMMUm/4oBcWyudQnOyC/64d7lfFZNuwNMBlqjjLQcR3SciMC7qophyGIW4psMKAZm8WXq0kFxErYZu/B1GvXNaW3IyV4mc524rtvG81L2PHBubr7l4JCO/rhcqI1J0qTAThRxEOANSZPnjPkXXGx4P6MTneTwLWbHL5TZ4uVNHOIBPuFMVaQbtB/ZbYFQ+AbhSa44Uirb benjamin.lieberman@PRFT-12634-MAC.local"
     }
   }
 }
